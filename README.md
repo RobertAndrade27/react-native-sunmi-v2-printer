@@ -3,7 +3,7 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/suraneti/react-native-sunmi-inner-printer/master/LICENSE) [![npm version](https://badge.fury.io/js/react-native-sunmi-v2-printer.svg)](https://www.npmjs.com/package/react-native-sunmi-v2-printer)
 
-## SUNMI V2 Printer for React-Native
+## SUNMI V2 Printer for React-Native Update API Google
 
 ### Caution: this is not the official project and forked form https://github.com/januslo/react-native-sunmi-inner-printer
 
